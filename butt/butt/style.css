@@ -1,0 +1,19 @@
+body{
+   background-color: #9f8303
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 90%;
+   max-height: 90%;
+   display: block; /* remove extra space below image */
+}
+h1{
+   text-align:center;
+   font-size:275%;
+}
+p{
+   color:#00fac4;
+   font-size:150%
+}
